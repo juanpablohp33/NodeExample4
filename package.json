@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/juanpablohp33/NodeExample4#readme",
   "dependencies": {
+    "request": "^2.88.0",
     "validator": "^10.11.0"
   }
 }
